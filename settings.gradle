@@ -1,0 +1,2 @@
+rootProject.name = "Blind o Voice"
+include ':app'
